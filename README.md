@@ -1,4 +1,4 @@
-# Framework: React.js
+# Framework: React.js, SASS
 
 ## Libraries
 ### Core
@@ -10,6 +10,8 @@
   - [React Hot Loader](https://github.com/gaearon/react-hot-loader) for providing hot reload capability to our development server
   - [Style Loader](https://github.com/webpack/style-loader)
   - [CSS Loader](https://github.com/webpack/css-loader)
+  - [Sass Loader](https://github.com/webpack-contrib/sass-loader)
+    - [Node-Sass](https://github.com/sass/node-sass)
   - [File Loader](https://github.com/webpack/file-loader)
 
 ### Dev Server
