@@ -1,6 +1,6 @@
 import React from 'react';
 import {hot} from 'react-hot-loader';
-import './App.css';
+import './App.scss';
 import reactIcon from './assets/images/react-icon.svg';
 
 function App() {
