@@ -22,6 +22,7 @@
     "babel-loader": "^8.1.0",
     "css-loader": "^3.5.2",
     "file-loader": "^4.3.0",
+    "html-webpack-plugin": "^4.2.0",
     "node-sass": "^4.13.1",
     "react-hot-loader": "^4.12.20",
     "sass-loader": "^7.3.1",
